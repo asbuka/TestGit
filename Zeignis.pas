@@ -15,4 +15,8 @@ procedure Test2
 begin
 end;
 
+procedure Test3
+begin
+end;
+
 end.
